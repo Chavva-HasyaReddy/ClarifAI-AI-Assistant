@@ -125,9 +125,17 @@ Project Source Code: [ClarifAI GitHub](https://github.com/Chavva-HasyaReddy/Clar
 ## 📽️ Demo Video
 
 Watch the project demo video here:  
-▶️ [ClarifAI Demo – Google Drive](https://drive.google.com/file/d/1O16NL2WnBiTnAWRbJlajOMuEaR2oP_RI/view?usp=sharing)
+▶️ [ClarifAI Demo – Google Drive](https://drive.google.com/file/d/1KTHMLlhrYxIagmNNpwfkYu7kj84VWSxn/view?usp=sharing)
 
 ---
+
+## 📄 Project Report
+
+Read the full project report here:  
+📘 [ClarifAI Report – Google Drive](https://drive.google.com/file/d/10PVsDlIJFnrFe1-dpUze_B_KBJV9UjIy/view?usp=sharing)
+
+---
+
 
 ## 🤝 Contributors
 
